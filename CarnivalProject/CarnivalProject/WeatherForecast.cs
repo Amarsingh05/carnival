@@ -1,4 +1,4 @@
-namespace CarnivalProject
+namespace sko.CarnivalProject
 {
     public class WeatherForecast
     {
